@@ -1,0 +1,10 @@
+{
+  "name": "WE Turismo — Realizando Sonhos",
+  "short_name": "WE Turismo",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#254b87",
+  "lang": "pt-BR"
+}

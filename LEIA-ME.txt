@@ -1,0 +1,10 @@
+WE TURISMO — TESTE EM SITE HTTPS
+
+1. Acesse https://app.netlify.com/drop no navegador de um computador.
+2. Arraste a pasta WE_Turismo_Publicar (a pasta extraida, NAO o arquivo ZIP).
+3. Aguarde a publicacao e copie o link https://...netlify.app fornecido pelo Netlify.
+4. Abra esse link no Safari do iPhone.
+5. Cliente: endereco principal /
+6. Agencia: acrescente /agencia/ ao final do endereco.
+
+ATENCAO: prototipo local, sem login seguro, sem banco de dados centralizado, sem pagamento real. Nao use com clientes reais nem dados pessoais sensiveis.
